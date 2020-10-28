@@ -123,5 +123,8 @@
       }
     }
   },
-  "defaultProject": "mean-boiler"
+  "defaultProject": "mean-boiler",
+  "cli": {
+    "analytics": "bedb00cc-06ff-4c82-a61b-dce60f822b2c"
+  }
 }
